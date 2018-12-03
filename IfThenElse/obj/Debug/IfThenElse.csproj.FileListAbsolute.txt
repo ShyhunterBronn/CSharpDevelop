@@ -1,0 +1,8 @@
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\IfThenElse\bin\Debug\IfThenElse.exe.config
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\IfThenElse\bin\Debug\IfThenElse.exe
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\IfThenElse\bin\Debug\IfThenElse.pdb
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\IfThenElse\obj\Debug\IfThenElse.Form1.resources
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\IfThenElse\obj\Debug\IfThenElse.Properties.Resources.resources
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\IfThenElse\obj\Debug\IfThenElse.csproj.GenerateResource.Cache
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\IfThenElse\obj\Debug\IfThenElse.exe
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\IfThenElse\obj\Debug\IfThenElse.pdb

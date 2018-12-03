@@ -1,0 +1,12 @@
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\bin\Debug\Calculator.exe.config
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\bin\Debug\Calculator.exe
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\bin\Debug\Calculator.pdb
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\obj\Debug\Calculator.exe
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\obj\Debug\Calculator.pdb
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\bin\Debug\Interop.MSScriptControl.dll
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\obj\Debug\Interop.MSScriptControl.dll
+c:\users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\Calculator\obj\Debug\Calculator.csproj.ResolveComReference.cache

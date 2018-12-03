@@ -1,0 +1,9 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Checked\bin\Debug\Checked.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Checked\bin\Debug\Checked.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Checked\bin\Debug\Checked.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Checked\obj\Debug\Checked.csprojResolveAssemblyReference.cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Checked\obj\Debug\Checked.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Checked\obj\Debug\Checked.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Checked\obj\Debug\Checked.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Checked\obj\Debug\Checked.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Checked\obj\Debug\Checked.pdb
