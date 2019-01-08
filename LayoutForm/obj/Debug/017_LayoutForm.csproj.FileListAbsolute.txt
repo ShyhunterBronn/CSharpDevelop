@@ -1,0 +1,9 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\LayoutForm\bin\Debug\LayoutForm.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\LayoutForm\bin\Debug\LayoutForm.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\LayoutForm\bin\Debug\LayoutForm.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\LayoutForm\obj\Debug\017_LayoutForm.csprojResolveAssemblyReference.cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\LayoutForm\obj\Debug\LayoutForm.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\LayoutForm\obj\Debug\LayoutForm.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\LayoutForm\obj\Debug\017_LayoutForm.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\LayoutForm\obj\Debug\LayoutForm.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\LayoutForm\obj\Debug\LayoutForm.pdb

@@ -1,0 +1,9 @@
+C:\Users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\GetSeason_29\bin\Debug\GetSeason_29.exe.config
+C:\Users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\GetSeason_29\bin\Debug\GetSeason_29.exe
+C:\Users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\GetSeason_29\bin\Debug\GetSeason_29.pdb
+C:\Users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\GetSeason_29\obj\Debug\029_GetSeason.csprojResolveAssemblyReference.cache
+C:\Users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\GetSeason_29\obj\Debug\GetSeason_29.Form1.resources
+C:\Users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\GetSeason_29\obj\Debug\GetSeason_29.Properties.Resources.resources
+C:\Users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\GetSeason_29\obj\Debug\029_GetSeason.csproj.GenerateResource.Cache
+C:\Users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\GetSeason_29\obj\Debug\GetSeason_29.exe
+C:\Users\nxf07752\documents\visual studio 2013\Projects\CSharpDevelop\GetSeason_29\obj\Debug\GetSeason_29.pdb

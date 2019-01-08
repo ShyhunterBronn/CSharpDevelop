@@ -22,7 +22,6 @@ namespace TypeOf
                 foreach (var para in m.GetParameters())
                 {
                     richTextBox1.AppendText("参数 ： " + para.Name + Environment.NewLine);
-
                 }
             }
         }

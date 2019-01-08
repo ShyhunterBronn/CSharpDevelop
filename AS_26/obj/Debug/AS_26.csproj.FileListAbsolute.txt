@@ -1,0 +1,9 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AS_26\bin\Debug\AS_26.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AS_26\bin\Debug\AS_26.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AS_26\bin\Debug\AS_26.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AS_26\obj\Debug\AS_26.csprojResolveAssemblyReference.cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AS_26\obj\Debug\AS_26.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AS_26\obj\Debug\AS_26.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AS_26\obj\Debug\AS_26.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AS_26\obj\Debug\AS_26.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AS_26\obj\Debug\AS_26.pdb

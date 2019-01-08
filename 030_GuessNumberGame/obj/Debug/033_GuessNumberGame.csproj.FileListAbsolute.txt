@@ -1,0 +1,8 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\030_GuessNumberGame\bin\Debug\030_GuessNumberGame.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\030_GuessNumberGame\bin\Debug\030_GuessNumberGame.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\030_GuessNumberGame\bin\Debug\030_GuessNumberGame.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\030_GuessNumberGame\obj\Debug\_030_GuessNumberGame.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\030_GuessNumberGame\obj\Debug\_030_GuessNumberGame.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\030_GuessNumberGame\obj\Debug\033_GuessNumberGame.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\030_GuessNumberGame\obj\Debug\030_GuessNumberGame.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\030_GuessNumberGame\obj\Debug\030_GuessNumberGame.pdb

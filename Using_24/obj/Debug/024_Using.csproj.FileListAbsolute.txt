@@ -1,0 +1,8 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Using_24\bin\Debug\Using_24.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Using_24\bin\Debug\Using_24.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Using_24\bin\Debug\Using_24.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Using_24\obj\Debug\Using_24.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Using_24\obj\Debug\Using_24.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Using_24\obj\Debug\024_Using.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Using_24\obj\Debug\Using_24.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Using_24\obj\Debug\Using_24.pdb

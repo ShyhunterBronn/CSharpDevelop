@@ -1,0 +1,8 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\034_Goto\bin\Debug\034_Goto.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\034_Goto\bin\Debug\034_Goto.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\034_Goto\bin\Debug\034_Goto.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\034_Goto\obj\Debug\_034_Goto.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\034_Goto\obj\Debug\_034_Goto.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\034_Goto\obj\Debug\034_Goto.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\034_Goto\obj\Debug\034_Goto.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\034_Goto\obj\Debug\034_Goto.pdb

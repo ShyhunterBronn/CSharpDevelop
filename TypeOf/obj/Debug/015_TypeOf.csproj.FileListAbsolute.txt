@@ -1,0 +1,8 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\TypeOf\bin\Debug\TypeOf.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\TypeOf\bin\Debug\TypeOf.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\TypeOf\bin\Debug\TypeOf.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\TypeOf\obj\Debug\TypeOf.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\TypeOf\obj\Debug\TypeOf.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\TypeOf\obj\Debug\015_TypeOf.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\TypeOf\obj\Debug\TypeOf.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\TypeOf\obj\Debug\TypeOf.pdb

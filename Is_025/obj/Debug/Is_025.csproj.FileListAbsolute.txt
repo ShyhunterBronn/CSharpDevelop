@@ -1,0 +1,9 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Is_025\bin\Debug\Is_025.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Is_025\bin\Debug\Is_025.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Is_025\bin\Debug\Is_025.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Is_025\obj\Debug\Is_025.csprojResolveAssemblyReference.cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Is_025\obj\Debug\Is_025.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Is_025\obj\Debug\Is_025.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Is_025\obj\Debug\Is_025.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Is_025\obj\Debug\Is_025.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Is_025\obj\Debug\Is_025.pdb

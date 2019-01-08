@@ -1,0 +1,8 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\SetFont\bin\Debug\SetFont.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\SetFont\bin\Debug\SetFont.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\SetFont\bin\Debug\SetFont.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\SetFont\obj\Debug\SetFont.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\SetFont\obj\Debug\SetFont.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\SetFont\obj\Debug\016_SetFont.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\SetFont\obj\Debug\SetFont.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\SetFont\obj\Debug\SetFont.pdb

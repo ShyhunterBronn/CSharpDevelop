@@ -1,0 +1,12 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\bin\Debug\038_PinYin.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\bin\Debug\038_PinYin.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\bin\Debug\038_PinYin.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\obj\Debug\_038_PinYin.Form1.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\obj\Debug\_038_PinYin.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\obj\Debug\038_PinYin.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\obj\Debug\038_PinYin.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\obj\Debug\038_PinYin.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\bin\Debug\ChnCharInfo.dll
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\bin\Debug\ChnCharInfo.xml
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\bin\Debug\zh-CN\ChnCharInfo.resources.dll
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\038_PinYin\obj\Debug\038_PinYin.csprojResolveAssemblyReference.cache

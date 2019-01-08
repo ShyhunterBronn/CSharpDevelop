@@ -1,0 +1,7 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Add3Control\bin\Debug\Add3Control.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Add3Control\bin\Debug\Add3Control.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Add3Control\bin\Debug\Add3Control.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Add3Control\obj\Debug\Add3Control.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Add3Control\obj\Debug\022_Add3Control.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Add3Control\obj\Debug\Add3Control.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\Add3Control\obj\Debug\Add3Control.pdb

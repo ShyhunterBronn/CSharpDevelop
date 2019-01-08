@@ -1,0 +1,9 @@
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AddDLL\bin\Debug\AddDLL.exe.config
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AddDLL\bin\Debug\AddDLL.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AddDLL\bin\Debug\AddDLL.pdb
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AddDLL\obj\Debug\020_AddDLL.csprojResolveAssemblyReference.cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AddDLL\obj\Debug\020_AddDLL.csproj.ResolveComReference.cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AddDLL\obj\Debug\AddDLL.Properties.Resources.resources
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AddDLL\obj\Debug\020_AddDLL.csproj.GenerateResource.Cache
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AddDLL\obj\Debug\AddDLL.exe
+C:\Users\nxf07752\Documents\Visual Studio 2013\Projects\CSharpDevelop\AddDLL\obj\Debug\AddDLL.pdb
